@@ -19,7 +19,7 @@ mongoose.connect(config.mongoURI,{
 
 
 app.get('/', (req, res) => {
-  res.send('Hello World!asdfasdf')
+  res.send('Hello World!')
 })
 
 app.post('/register', async (req, res)=>{
