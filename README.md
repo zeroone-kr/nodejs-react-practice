@@ -9,4 +9,5 @@ npm install mongoose --save
 npm install express --save
 npm install body-parser --seave
 npm install nodemon --save-dev
+npm start dev
 ```
